@@ -2,4 +2,4 @@
 Assignment repository for UNT CSCE1015
 arz0033
 arz0033
-echo "Hello, world!" - print text to the terminal
+echo "Hello, world!"
